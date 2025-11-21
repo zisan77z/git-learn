@@ -1,2 +1,2 @@
 console.log('src page');
-console.log('version 6 set up push shortcut by set-upstream');
+console.log('version 7 add force virsion 8');

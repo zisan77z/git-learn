@@ -1,2 +1,2 @@
 console.log('git config');
-console.log('version 5 cheking it req pass or not');
+console.log('version add force  version 8');
